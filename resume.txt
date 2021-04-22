@@ -1,0 +1,83 @@
+Hisham Abbassy
+Stuttgart, Baden-Württemberg, Germany
+
+A highly efficient, hardworking and talented engineer enjoy using future-oriented solutions based on data analyticssuch as artificial intelligence AI, Machine Learning and Deep Learning.
+My master’s thesis about using neural networks to identify and classify road unevenness for predictive suspensionsystems based on LiDAR sensor signal regardless the sensor limitations is not only an evidence of knowledge indeep learning but also for willingness to learn and motivation.
+
+
+Master Thesis Vehicle Dynamics Advanced Development
+ZF Group
+
+"Classification of a camera road height profile using artificial neural networks to detect road obstacles"
+• Data Exploring and statistical analysis (Data Science) (Numpy, Scipy, Pandas)
+• Artificial data generation (GAN, self-developed algorithms)
+• Data preparation for artificial neural networks (transformation pipelines)
+• Designing, building and training feedforward and convolutional networks to identify and classifyuneven roads. (Keras, Tensorflow)
+• Develop a simulation model and use it with dSPACE in the test vehicle to test trained networks.
+
+Intern
+ZF Group
+
+• Modeling and simulation of active suspension systems.
+• Developing and optimization of control strategies.
+• Script-controlled data evaluation and data analysis
+• Data labeling for ML after expanding a labeling tool (MATLAB GUI)
+
+Working Student
+Bosch
+
+• Developing and designing Batteries for hybrid vehicles
+
+Design Engineer
+EDAG Group
+
+• Design parts for automotive interior.
+• Product feasibility study for design for assembly (DFA) and Design for manufacturing (DFM) accordingto OEM requirements.
+
+Intern
+MAHLE
+
+• Developing new concepts of battery cooling systems
+• Design parts for cooling systems (chillers, cooling plates, intercoolers, fuel preheaters) , testingpurpose, tools.
+• Create design drawings including geometric dimensioning and tolerancing.
+• Perform strength calculations (FEM analysis), thermal analysis, vibration analysis
+• Prototypes testing and validating simulation results
+
+Development Engineer
+The phoenix team
+
+• Composite Design (seat- steering links)
+• Stress Analysis and lightweight structures optimization using FEM & MBD (Seat- steering links-mounting brackets)
+• Ergonomics study for optimum driving compartment to 5 percentile female
+• Aerodynamics Analysis using CFD
+• Multibody simulation for steering mechanism
+
+Design Team Leader
+AUMotorsports
+
+• Team management and advising about all technical issues concerning design and manufacturingaccording available resources/budget.
+• Stress analysis utilizing FEM.
+• Lightweight concept frame design.
+• Vehicle dynamics system calculations including tire data analysis.
+• Suspension system/components design.
+• Brake system design/ thermal analysis.
+
+Hochschule Esslingen - University of Applied Sciences
+Master of Engineering - MEng, Automotive Systems
+
+Alexandria University
+Bachelor of Science (B.Sc.), Mechanical Engineering
+
+Licenses & Certifications
+Certified Solidworks Associate - Dassault Systèmes
+AutoCAD Mastering - Autodesk
+Goethe Zertifikat B1 - Goethe-Institut e.V.
+edX Verified Certificate for SQL for Data Science - edX
+2b1a2fab744145b1acc92bb8b00488d0
+MATLAB & SIMULINK Onramp - MathWorks
+Machine Learning Onramp - MathWorks
+Deep Learning Onramp - MathWorks
+intro to Machine Learning and Deep Learning - Kaggle
+Data-based work and basics in complex data analysis - StackFuel
+
+Automotive Engineering • Machine Learning • Python • Finite Element Analysis • Engineering • Manufacturing • CAD • Design for Manufacturing • Welding • R&D
